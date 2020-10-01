@@ -22,9 +22,9 @@
 考虑$\mathbb{R}^\infty$中的向量 $\vec{a}=(a_1,a_2,\cdots,a_n,\cdots)(a_i\in\mathbb{N}^*)$ ,
 称$\vec{a}$为好的，当且仅当其各分量$a_n(n\in\mathbb{N^*})$中有无限多个非零数；称$\vec{a}$为有界的，当且仅当存在M&amp;gt;0，对任意$a_n$都有$|a_n|&amp;lt;M$ ; 若$\vec{a}$是好的且为有界的，则$\vec{a}\in S$ .
 定义$\vec{a}*\vec{b}=(c_1,c_2,\cdots,c_n,\cdots)$ ,其中$c_n=\sum\limits_{n=kl}a_kb_l$ .
-(1)$\exist\vec{a},\vec{b}\in S$ , $\vec{a}*\vec{b}$ 不是有界的。
-(2)$\exist\vec{a},\vec{b}\in S$ , $\vec{a}*\vec{b}$ 是有界的。
-(3)$\exist\vec{a}\in S,\vec{b}\in\mathbb{R}^\infty$ ,$\vec{a}*\vec{b}=(c_1,c_2,\cdots,c_n,\cdots)$ ,其中$c_n=n$ .</description>
+(1)$\exists\vec{a},\vec{b}\in S$ , $\vec{a}*\vec{b}$ 不是有界的。
+(2)$\exists\vec{a},\vec{b}\in S$ , $\vec{a}*\vec{b}$ 是有界的。
+(3)$\exists\vec{a}\in S,\vec{b}\in\mathbb{R}^\infty$ ,$\vec{a}*\vec{b}=(c_1,c_2,\cdots,c_n,\cdots)$ ,其中$c_n=n$ .</description>
     </item>
     
   </channel>

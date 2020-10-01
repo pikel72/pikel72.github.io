@@ -38,9 +38,9 @@ $$</p>
 <p>考虑$\mathbb{R}^\infty$中的向量 $\vec{a}=(a_1,a_2,\cdots,a_n,\cdots)(a_i\in\mathbb{N}^*)$ ,</p>
 <p>称$\vec{a}$为好的，当且仅当其各分量$a_n(n\in\mathbb{N^*})$中有无限多个非零数；称$\vec{a}$为有界的，当且仅当存在M&gt;0，对任意$a_n$都有$|a_n|&lt;M$ ; 若$\vec{a}$是好的且为有界的，则$\vec{a}\in S$ .</p>
 <p>定义$\vec{a}*\vec{b}=(c_1,c_2,\cdots,c_n,\cdots)$ ,其中$c_n=\sum\limits_{n=kl}a_kb_l$ .</p>
-<p>(1)$\exist\vec{a},\vec{b}\in S$ , $\vec{a}*\vec{b}$ 不是有界的。</p>
-<p>(2)$\exist\vec{a},\vec{b}\in S$ , $\vec{a}*\vec{b}$ 是有界的。</p>
-<p>(3)$\exist\vec{a}\in S,\vec{b}\in\mathbb{R}^\infty$ ,$\vec{a}*\vec{b}=(c_1,c_2,\cdots,c_n,\cdots)$ ,其中$c_n=n$ .</p>
+<p>(1)$\exists\vec{a},\vec{b}\in S$ , $\vec{a}*\vec{b}$ 不是有界的。</p>
+<p>(2)$\exists\vec{a},\vec{b}\in S$ , $\vec{a}*\vec{b}$ 是有界的。</p>
+<p>(3)$\exists\vec{a}\in S,\vec{b}\in\mathbb{R}^\infty$ ,$\vec{a}*\vec{b}=(c_1,c_2,\cdots,c_n,\cdots)$ ,其中$c_n=n$ .</p>
 </div>
 				
 			</article>
@@ -56,6 +56,23 @@ $$</p>
 	</div>
 	<footer class="footer">
 	<div class="footer__copyright">© 2020 My New Hugo Site. <span class="footer__copyright-credits">Powered by <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/vimux/binario" rel="nofollow noopener" target="_blank">Binario</a> theme.</span></div>
+	<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+			tex2jax: {
+				inlineMath: [['$','$'], ['\\(','\\)']],
+				displayMath: [['$$','$$'], ['\[','\]']],
+				processEscapes: true,
+				processEnvironments: true,
+				skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+				TeX: {
+					equationNumbers: { autoNumber: "AMS" },
+					extensions: ["AMSmath.js", "AMSsymbols.js"]
+				}
+			}
+		});
+	</script>
+	<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+	
 </footer>
 </body>
 </html>
