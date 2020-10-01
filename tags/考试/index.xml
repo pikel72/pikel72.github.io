@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>考试 on P0lyno3ial&#39;s Site</title>
-    <link>https://example.com/tags/%E8%80%83%E8%AF%95/</link>
+    <link>https://pikel72.github.io/tags/%E8%80%83%E8%AF%95/</link>
     <description>Recent content in 考试 on P0lyno3ial&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2020 22:28:19 +0800</lastBuildDate><atom:link href="https://example.com/tags/%E8%80%83%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Oct 2020 22:28:19 +0800</lastBuildDate><atom:link href="https://pikel72.github.io/tags/%E8%80%83%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>南京大学数学2018年数学拔尖计划考试</title>
-      <link>https://example.com/2020/njumathexam1/</link>
+      <link>https://pikel72.github.io/2020/njumathexam1/</link>
       <pubDate>Thu, 01 Oct 2020 22:28:19 +0800</pubDate>
       
-      <guid>https://example.com/2020/njumathexam1/</guid>
+      <guid>https://pikel72.github.io/2020/njumathexam1/</guid>
       <description>一.计算题
 1.令 $a\Delta b=ab-5a-b+10$ , 求 $$ 1\Delta (2\Delta(3\Delta(\cdots\Delta(2017\Delta2018)))) $$
 2.求$g(200)=\sum_{k=1}\limits^{200}gcd(k,200)$的值。

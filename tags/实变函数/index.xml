@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>实变函数 on P0lyno3ial&#39;s Site</title>
-    <link>https://example.com/tags/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0/</link>
+    <link>https://pikel72.github.io/tags/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0/</link>
     <description>Recent content in 实变函数 on P0lyno3ial&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2020 23:34:09 +0800</lastBuildDate><atom:link href="https://example.com/tags/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Oct 2020 23:34:09 +0800</lastBuildDate><atom:link href="https://pikel72.github.io/tags/%E5%AE%9E%E5%8F%98%E5%87%BD%E6%95%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>实变函数习题记录1</title>
-      <link>https://example.com/2020/ra1/</link>
+      <link>https://pikel72.github.io/2020/ra1/</link>
       <pubDate>Thu, 01 Oct 2020 23:34:09 +0800</pubDate>
       
-      <guid>https://example.com/2020/ra1/</guid>
+      <guid>https://pikel72.github.io/2020/ra1/</guid>
       <description>第一次在这里写笔记, 有点慌&amp;hellip;
 那就直入正题吧.
 Baire 纲定理的各种等价形式 不得不说各种书用的各种定义各种等价形式整的人头疼&amp;hellip;但无论如何, 我们都需要从下面的定义出发.
