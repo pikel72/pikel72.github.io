@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>习题 on P0lyno3ial&#39;s Site</title>
+    <link>https://example.com/tags/%E4%B9%A0%E9%A2%98/</link>
+    <description>Recent content in 习题 on P0lyno3ial&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Oct 2020 23:34:09 +0800</lastBuildDate><atom:link href="https://example.com/tags/%E4%B9%A0%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>实变函数习题记录1</title>
+      <link>https://example.com/2020/ra1/</link>
+      <pubDate>Thu, 01 Oct 2020 23:34:09 +0800</pubDate>
+      
+      <guid>https://example.com/2020/ra1/</guid>
+      <description>第一次在这里写笔记, 有点慌&amp;hellip;
+那就直入正题吧.
+Baire 纲定理的各种等价形式 不得不说各种书用的各种定义各种等价形式整的人头疼&amp;hellip;但无论如何, 我们都需要从下面的定义出发.
+无处稠密集 (疏集): 一个在全空间的任何开集中都不稠密的集合称为无处稠密集. 可以验证这当且仅当集合的闭包没有内点.
+开稠集: 开的稠密集. 一个集合是开稠集显然等价于其补为无处稠密集.
+第一纲集: 疏集的可数并称为第一纲集.
+第二纲集: 不是第一纲集的集合称为第二纲集. (这名字也太简陋了)
+Baire 纲定理: (1) 完备度量空间是第二纲的.
+(2) 一列开稠集之可数交仍为开稠集.
+(3) 一列没有内点的闭集之并仍没有内点.
+这些叙述都是等价的, 证明略去.
+题目  证明 $C[0,1]$ 中处处不可微的函数全体组成的集合在 $C[0,1]$ 中为第二纲集. 证明无穷维 Banach 空间的 Hamel 基不可数. 设 $f:\mathbb{R}^n\to \mathbb{R}^m$ 满足 Stepanov 型条件:$\limsup\limits_{y\to x} \dfrac{|f(y)-f(x)|}{y-x}&amp;lt;\infty$ 对任意 $x\in \mathbb{R}^n$ 成立. 证明存在开集 $U\subset \mathbb{R}^n$ 使得 $f|_U$ 为 Lipschitz 函数. Let $f\in C^\infty(\mathbb{R})$ be a function with the following property: $\forall\ x\in \mathbb{R}$, exists positive integer $n(x)$ such that $f^{(n(x))}(x)=0$.</description>
+    </item>
+    
+  </channel>
+</rss>

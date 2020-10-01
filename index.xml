@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome! on My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content in Welcome! on My New Hugo Site</description>
+    <title>P0lyno3ial&#39;s Site</title>
+    <link>https://example.com/</link>
+    <description>Recent content on P0lyno3ial&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2020 10:08:38 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Oct 2020 21:58:13 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>K</title>
-      <link>http://example.org/post/%E9%A2%98%E7%9B%AE%E5%8F%AF%E8%83%BD%E6%9C%89/k/</link>
-      <pubDate>Thu, 01 Oct 2020 12:09:38 +0800</pubDate>
+      <title>Posts</title>
+      <link>https://example.com/posts/</link>
+      <pubDate>Thu, 01 Oct 2020 23:34:09 +0800</pubDate>
       
-      <guid>http://example.org/post/%E9%A2%98%E7%9B%AE%E5%8F%AF%E8%83%BD%E6%9C%89/k/</guid>
-      <description>Lorem Ipsum.</description>
+      <guid>https://example.com/posts/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>南京大学数学2018年数学拔尖计划考试</title>
-      <link>http://example.org/post/1/</link>
-      <pubDate>Thu, 01 Oct 2020 00:33:58 +0800</pubDate>
+      <title></title>
+      <link>https://example.com/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/1/</guid>
-      <description>一.计算题
-1.令 $a\Delta b=ab-5a-b+10$ , 求 $$ 1\Delta (2\Delta(3\Delta(\cdots\Delta(2017\Delta2018)))) $$
-2.求$g(200)=\sum_{k=1}\limits^{200}gcd(k,200)$的值。
-3.求整系数多项式$u(x),v(x)$使得$u(x)\cdot x^5+v(x)\cdot (x-1)^4=1$ .
-4.整系数多项式$f(x)$满足$f(2013)=4,f(2012)=3,f(2011)=2$,求$f(2018)$能取到的最小正整数值。
-二.证明题
-考虑$\mathbb{R}^\infty$中的向量 $\vec{a}=(a_1,a_2,\cdots,a_n,\cdots)(a_i\in\mathbb{N}^*)$ ,
-称$\vec{a}$为好的，当且仅当其各分量$a_n(n\in\mathbb{N^*})$中有无限多个非零数；称$\vec{a}$为有界的，当且仅当存在M&amp;gt;0，对任意$a_n$都有$|a_n|&amp;lt;M$ ; 若$\vec{a}$是好的且为有界的，则$\vec{a}\in S$ .
-定义$\vec{a}*\vec{b}=(c_1,c_2,\cdots,c_n,\cdots)$ ,其中$c_n=\sum\limits_{n=kl}a_kb_l$ .
-(1)$\exists\vec{a},\vec{b}\in S$ , $\vec{a}*\vec{b}$ 不是有界的。
-(2)$\exists\vec{a},\vec{b}\in S$ , $\vec{a}*\vec{b}$ 是有界的。
-(3)$\exists\vec{a}\in S,\vec{b}\in\mathbb{R}^\infty$ ,$\vec{a}*\vec{b}=(c_1,c_2,\cdots,c_n,\cdots)$ ,其中$c_n=n$ .</description>
+      <guid>https://example.com/about/</guid>
+      <description>&lt;p&gt;Hugo is the &lt;strong&gt;world’s fastest framework for building websites&lt;/strong&gt;. It is written in Go.&lt;/p&gt;
+&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/russross/blackfriday&#34;&gt;https://github.com/russross/blackfriday&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on P0lyno3ial&#39;s Site</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on P0lyno3ial&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Oct 2020 23:34:09 +0800</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>做题</title>
+      <link>https://example.com/categories/%E5%81%9A%E9%A2%98/</link>
+      <pubDate>Thu, 01 Oct 2020 23:34:09 +0800</pubDate>
+      
+      <guid>https://example.com/categories/%E5%81%9A%E9%A2%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>各种考试</title>
+      <link>https://example.com/categories/%E5%90%84%E7%A7%8D%E8%80%83%E8%AF%95/</link>
+      <pubDate>Thu, 01 Oct 2020 22:28:19 +0800</pubDate>
+      
+      <guid>https://example.com/categories/%E5%90%84%E7%A7%8D%E8%80%83%E8%AF%95/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
